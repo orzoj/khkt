@@ -6,7 +6,7 @@
 * Zootube tất nhiên rồi (ai lại phải đọc docs khi đã có zootube)
 
 ## Cách cài Pycord trên python
-Muốn ăn thì lăn vào bếp, còn muốn code thì phải cài thư viện tất nhiên rồi:)))
+Muốn ăn thì lăn vào bếp, còn muốn code thì phải cài thư viện:)))
 
 Theo hướng dẫn trên docs thì mình sẽ cài như sau
 
@@ -16,7 +16,7 @@ pip install -U py-cord
 
 Cài Python trước hộ tôi cái (3.8 trở lên nhé, không là bị bủ bủ lmao đó)
 
-Chạy thử cái này coi có được không nhớ bỏ token của bot vô chứ không là chạy không được đâu, nếu không thì xin vĩnh biệt cụ.
+Chạy thử cái này coi có được không, mà nhớ bỏ token của bot vô chứ không là chạy không được đâu, nếu không thì xin vĩnh biệt cụ.
 
 ```
 import discord
