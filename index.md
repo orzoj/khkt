@@ -4,15 +4,19 @@
 
 
 ### Các ngôn ngữ lập trình nên dùng
-* Python
-* JavaScript
+* [Python](https://www.youtube.com/playlist?list=PL33lvabfss1xczCv2BA0SaNJHu_VXsFtg)
+* [JavaScript](https://www.youtube.com/playlist?list=PLncHg6Kn2JT5dfQqpVtfNYvv3EBVHHVKo)
 
 ### Nhận diện hình ảnh
 * Tensorflow
 * OpenCV
 
 ### Discord API
+* Discord.js - JavaScript
+* Pycord (Discordpy) - Python
 
 ### Tạo website
+chưa có:))
 
 ### các thuật toán cơ bản trong khoa học kĩ thuật
+tất nhiên là chưa có rồi:))
