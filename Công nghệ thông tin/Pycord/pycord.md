@@ -33,3 +33,6 @@ client.run(<token>)
 ```
 
 Để biết chạy được hay không thì thử chat cái gì đó nếu nó phản hồi lại thì là chạy được còn không thì ...
+
+## Cơ chế của Pycord
+Ở đây mình sẽ nói theo một cách đơn giản có thể không chuẩn lắm nhưng nó có thể làm bạn có thể hiểu về cơ chế của nó.

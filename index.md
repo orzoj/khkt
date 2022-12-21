@@ -12,7 +12,7 @@
 
 ### Discord API
 * Discord.js - JavaScript
-* [Pycord (Discordpy) - Python](./C%C3%B4ng%20ngh%E1%BB%87%20th%C3%B4ng%20tin/Pycord/pycord.md)
+* [Pycord (Discordpy) - Python](./C%C3%B4ng%20ngh%E1%BB%87%20th%C3%B4ng%20tin/Pycord/pycord.html)
 
 ### Tạo website
 chưa có:))
