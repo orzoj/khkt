@@ -12,3 +12,7 @@
 * OpenCV
 
 ### Discord API
+
+### Tạo website
+
+### các thuật toán cơ bản trong khoa học kĩ thuật
