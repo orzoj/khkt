@@ -7,7 +7,7 @@
 * [JavaScript](https://www.youtube.com/playlist?list=PLncHg6Kn2JT5dfQqpVtfNYvv3EBVHHVKo)
 
 ### Nhận diện hình ảnh
-* Tensorflow
+* [Tensorflow](./C%C3%B4ng%20ngh%E1%BB%87%20th%C3%B4ng%20tin/Tensorflow/tensorflow.html)
 * OpenCV
 
 ### Discord API
