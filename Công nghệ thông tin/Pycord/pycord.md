@@ -83,3 +83,5 @@ Khi bạn chat **s+hell** (**s+** là prefix, **hell** là câu lệnh) thì bot
 
 ![img](./store/eg-1.png)
 
+
+
